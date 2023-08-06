@@ -1,0 +1,13 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharp7Features/bin/Debug
+/.vs
+/CSharp7Features/obj/Debug
+/CSharp8Features/bin/Debug/netcoreapp3.1
+/CSharp8Features/obj/Debug/netcoreapp3.1
+/CSharp8Features/obj
+/NetFxConsoleApp/bin/Debug
+/NetFxConsoleApp/obj/Debug
+/packages
